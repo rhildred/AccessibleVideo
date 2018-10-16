@@ -1,5 +1,5 @@
-# AccessibleVideo
-November 21st class INFO3130 
+# <a href="https://github.com/rhildred/AccessibleVideo" target="_blank">AccessibleVideo</a>
+INFO3130 
 
 The following links were used in the development of this repository:
 
